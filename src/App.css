@@ -2070,6 +2070,7 @@ footer .bottombox .alert{
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul{
     gap: 15px;
     margin-bottom: 35vh;
+    flex-wrap: wrap-reverse;
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .txt{
     margin-top: 10px;
