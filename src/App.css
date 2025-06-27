@@ -1994,6 +1994,10 @@ footer .bottombox .alert{
   #mv3{
     margin-top: 80px;
   }
+  #mv3 .mv3Swiper .swiper-button-prev,
+  #mv3 .mv3Swiper .swiper-button-next{
+    top: 10%;
+  }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide{
     height: 400px;
   }
@@ -2068,8 +2072,8 @@ footer .bottombox .alert{
     font-size: 10rem;
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul{
-    gap: 15px;
-    margin-bottom: 35vh;
+    gap: 0px;
+    margin-bottom: 50px;
     flex-wrap: wrap-reverse;
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .txt{
