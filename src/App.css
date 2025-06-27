@@ -1211,6 +1211,9 @@ header nav .gnb > li > ul > li > ul > li:hover a{
   #sale .txtbox {
     width: 100%;
   }
+  #overview .tabbox .tablist{
+    padding-left: 10px;
+  }
   #sale .cont2box .others{
     font-size: 3rem;
   }
@@ -1315,6 +1318,7 @@ header nav .gnb > li > ul > li > ul > li:hover a{
   justify-content: space-between;
   align-items: center;
   position: relative;
+  overflow: hidden;
 }
 #directing .imgbox{
   height: 90vh;
