@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Layout from "./component/Layout";
 import Home from "./pages/Home";
-import Sub1 from "./Pages/Sub1";
-import Sub2 from "./Pages/Sub2";
+import Sub1 from "./pages/Sub1";
+import Sub2 from "./pages/Sub2";
 import './App.css'
 
 function App() {
