@@ -1994,6 +1994,9 @@ footer .bottombox .alert{
   #mv3{
     margin-top: 80px;
   }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide{
+    height: 400px;
+  }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide:nth-child(1){
     background: url(/mv3/mv3bg3t.png) no-repeat center center / cover;
   }
@@ -2002,6 +2005,22 @@ footer .bottombox .alert{
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide:nth-child(3){
     background: url(/mv3/mv3bgt.png) no-repeat center center / cover;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox h3{
+    font-size: 12rem;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul{
+    gap: 15px;
+    margin-bottom: 25px;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .txt{
+    font-size: 1.2rem;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .year{
+    font-size: 7rem;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .before{
+    font-size: 2.5rem;
   }
   #mv3 .mv3cont li > a{
     width: calc(50% - 10px);
@@ -2029,6 +2048,9 @@ footer .bottombox .alert{
   #mv3{
     margin-top: 120px;
   }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide{
+    height: 100vh;
+  }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide:nth-child(1){
     background: url(/mv3/mv3bg3m.png) no-repeat center center / cover;
   }
@@ -2037,6 +2059,22 @@ footer .bottombox .alert{
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide:nth-child(3){
     background: url(/mv3/mv3bgm.png) no-repeat center center / cover;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox h3{
+    font-size: 10rem;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul{
+    gap: 15px;
+    margin-bottom: 480px;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .txt{
+    font-size: 1.2rem;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .year{
+    font-size: 7rem;
+  }
+  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .before{
+    font-size: 2rem;
   }
   #mv3 .mv3cont li > a{
     width: 100%;
