@@ -2048,8 +2048,8 @@ footer .bottombox .alert{
   #mv3{
     margin-top: 120px;
   }
-  #mv3 .mv3Swiper .swiper-wrapper .swiper-slide{
-    height: 100%;
+  #mv3 .swiper .swiper-wrapper .swiper-slide img{
+    height: calc(100vh - 118px);
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide:nth-child(1){
     background: url(/mv3/mv3bg3m.png) no-repeat center center / cover;
@@ -2068,6 +2068,7 @@ footer .bottombox .alert{
     margin-bottom: 480px;
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .txt{
+    margin-top: 10px;
     font-size: 1.2rem;
   }
   #mv3 .mv3Swiper .swiper-wrapper .swiper-slide .txtwrap .txtbox ul .year{
