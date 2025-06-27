@@ -1,4 +1,4 @@
-import Mv3 from "../component/mv3";
+import Mv3 from "../component/Mv3";
 
 const Sub2 =()=>{
   return(
