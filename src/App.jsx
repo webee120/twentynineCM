@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Layout from "./component/Layout";
 import Home from "./Pages/Home";
 import Sub1 from "./Pages/Sub1";
-import Sub1 from "./Pages/Sub2";
+import Sub2 from "./Pages/Sub2";
 import './App.css'
 
 function App() {
